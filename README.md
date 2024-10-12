@@ -11,7 +11,9 @@
  
  🔭 I’m currently working on **Health care Diagnosis Projects using ML**
  
- 🤖 Winner of Pakistan's Biggest Robotics Contest **NERC**
+ 🤖 Winner of Pakistan's Biggest Robotics Contest **NERC**'
+ 🤖Runner-up Pakistan's Biggest Entrepreneurship Competition  **Zindigi Prize**'
+ 
  </div>
 
  <div align="center"> 
